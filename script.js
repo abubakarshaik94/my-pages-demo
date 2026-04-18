@@ -1,1 +1,1 @@
-console.log("Updated site loads");
+console.log("Updated site loaded");
